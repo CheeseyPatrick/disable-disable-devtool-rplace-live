@@ -14,7 +14,7 @@ A Chrome extension that disables rplace.live's devtool detection, allowing you t
 
 2. **Open Chrome and go to the Extensions page**
 
-   Navigate to `[chrome://extensions](chrome://extensions)` in your address bar.
+   Navigate to `chrome://extensions` in your address bar.
 
 3. **Enable Developer Mode**
 
